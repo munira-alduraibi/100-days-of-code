@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0:  December 1 , 2021 
 ##### (delete me or comment me out)
 
 **Link(s) to work**
