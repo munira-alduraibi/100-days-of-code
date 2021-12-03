@@ -3,6 +3,6 @@
 ### Day 0:  December 1 , 2021 
 ##### just forked the repo , and learn how to navigate and use git and githup since i'm only a cs student and haven't build project yet :)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 1:  December 3 , 2021 
+##### yesterday was my weekly break, however i learned 60% of the basic elements in HTML , it was so easy , i think all that skill on problem solving and and learning launges in the last 2 years in my specialty has paid off :) , even tho i will take web Development in next semester i would rather start form now and learn how to build projects really fast.
+
