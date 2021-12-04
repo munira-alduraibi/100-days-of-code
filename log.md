@@ -1,8 +1,12 @@
 # 100 Days Of Code - Log
+# in learning and mastering html + css + Javascript for 100 
 
 ### Day 0:  December 1 , 2021 
 ##### just forked the repo , and learn how to navigate and use git and githup since i'm only a cs student and haven't build project yet :)
 
 ### Day 1:  December 3 , 2021 
 ##### yesterday was my weekly break, however i learned 60% of the basic elements in HTML , it was so easy , i think all that skill on problem solving and and learning launges in the last 2 years in my specialty has paid off :) , even tho i will take web Development in next semester i would rather start form now and learn how to build projects really fast.
+
+### Day 2:  December 4 , 2021 
+##### I finished learning all the basic element of html , tommorw i will start css :)
 
