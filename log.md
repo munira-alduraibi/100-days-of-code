@@ -8,5 +8,5 @@
 ##### yesterday was my weekly break, however i learned 60% of the basic elements in HTML , it was so easy , i think all that skill on problem solving and and learning launges in the last 2 years in my specialty has paid off :) , even tho i will take web Development in next semester i would rather start form now and learn how to build projects really fast.
 
 ### Day 2:  December 4 , 2021 
-##### I finished learning all the basic element of html , tommorw i will start css :)
+##### I finished learning all the basic element of html , tommorw i will start css :) , that it
 
