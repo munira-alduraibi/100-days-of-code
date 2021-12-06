@@ -10,3 +10,5 @@
 ### Day 2:  December 4 , 2021 
 ##### I finished learning all the basic element of html , tommorw i will start css :) , that it
 
+### Day 3:  December 6 , 2021 
+##### learned basic css 
