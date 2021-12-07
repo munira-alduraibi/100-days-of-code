@@ -12,3 +12,6 @@
 
 ### Day 3:  December 6 , 2021 
 ##### learned basic css 
+
+### Day 4:  December 7 , 2021 
+##### another day of learning basic css 
