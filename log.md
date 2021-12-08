@@ -15,3 +15,6 @@
 
 ### Day 4:  December 7 , 2021 
 ##### another day of learning basic css 
+
+### Day 5:  December 8 , 2021 
+##### I completed 64% of learning css basics , so that is something :O
