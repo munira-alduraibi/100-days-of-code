@@ -18,3 +18,9 @@
 
 ### Day 5:  December 8 , 2021 
 ##### I completed 64% of learning css basics , so that is something :O
+
+### Day 6:  December 10 , 2021 
+##### I completed 100% of learning css basics 
+
+
+## EXTRA days I did .. each two line represnet one hour 
