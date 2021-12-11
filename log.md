@@ -22,5 +22,9 @@
 ### Day 6:  December 10 , 2021 
 ##### I completed 100% of learning css basics 
 
+### Day 7:  December 11 , 2021 
+##### started to learn applied Visual design with css
+
+
 
 ## EXTRA days I did .. each two line represnet one hour 
