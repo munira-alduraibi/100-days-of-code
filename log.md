@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-# in learning and mastering html + css + Javascript for 100 
+# in learning and mastering html + css for 100 
 
 ### Day 0:  December 1 , 2021 
 ##### just forked the repo , and learn how to navigate and use git and githup since i'm only a cs student and haven't build project yet :)
