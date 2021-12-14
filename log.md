@@ -28,6 +28,9 @@
 ### Day 8:  December 12 , 2021 
 ##### learned 35% of applied Visual design with css
 
+### Day 9:  December 14 , 2021 
+##### learned 56% of applied Visual design with css
+
 
 
 ## EXTRA days I did .. each two line represnet one hour 
