@@ -32,7 +32,6 @@
 ##### learned 56% of applied Visual design with css
 
 ### Day 11:  December 15 , 2021 
-##### learned 66% of applied Visual design with css , trying hard to keep the habit bc all of these projects and final exams that i have :) however , i thank me for trying to put the time into this challenge even tho idon't have a lot of time 
-
+##### learned 66% of applied Visual design with css 
 
 ## EXTRA days I did .. each two line represnet one hour 
