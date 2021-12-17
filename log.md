@@ -34,4 +34,7 @@
 ### Day 11:  December 15 , 2021 
 ##### learned 66% of applied Visual design with css 
 
+### Day 12:  December 17 , 2021 
+#####  I completed 100% of applied Visual design with css :) huuuri 🎉
+
 ## EXTRA days I did .. each two line represnet one hour 
