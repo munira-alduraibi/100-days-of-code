@@ -1,6 +1,6 @@
-# 100 Days Of Code - Log
-# in learning and mastering html + css for 100 
-# i'm doing https://www.freecodecamp.org/learn/responsive-web-design/
+## 100 Days Of Code - Log
+#### in learning and mastering html + css for 100 
+#### i'm doing https://www.freecodecamp.org/learn/responsive-web-design/
 
 
 ### Day 1:  December 1 , 2021 
