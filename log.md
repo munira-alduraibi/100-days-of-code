@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 # in learning and mastering html + css for 100 
+# i'm doing https://www.freecodecamp.org/learn/responsive-web-design/
+
 
 ### Day 1:  December 1 , 2021 
 ##### just forked the repo , and learn how to navigate and use git and githup since i'm only a cs student and haven't build project yet :)
@@ -36,5 +38,8 @@
 
 ### Day 12:  December 17 , 2021 
 #####  I completed 100% of applied Visual design with css :) huuuri 🎉
+
+### Day 13:  December 18 , 2021 
+#####  learned 50% of applied accessibility 
 
 ## EXTRA days I did .. each two line represnet one hour 
