@@ -41,4 +41,8 @@
 ### Day 13:  December 18 , 2021 
 #####  learned 50% of applied accessibility 
 
+
+### Day 14:  December 19 , 2021 
+#####  I completed 100% of applied accessibility 
+
 ## EXTRA days I did .. each two line represnet one hour 
