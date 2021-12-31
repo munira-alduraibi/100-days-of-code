@@ -60,3 +60,6 @@
 
 ### * EXTRA hours I did * Day 19:  December 31 , 2021 
 #####  I learned 64% of the basics of CSS grid
+
+### * EXTRA hours I did * Day 20:  December 31 , 2021 
+#####  I completed 100% of the basics of CSS grid
