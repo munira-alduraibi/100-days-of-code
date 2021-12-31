@@ -51,6 +51,5 @@
 ### Day 16:  December 31 , 2021 
 #####  I did 50% of css flexbox 
 
-### EXTRA hours I did 
-### Day 17:  December 31 , 2021 
+### * EXTRA hours I did * Day 17:  December 31 , 2021 
 #####  I did 100 of css flexbox
