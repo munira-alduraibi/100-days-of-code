@@ -41,8 +41,14 @@
 ### Day 13:  December 18 , 2021 
 #####  learned 50% of applied accessibility 
 
-
 ### Day 14:  December 19 , 2021 
 #####  I completed 100% of applied accessibility 
+
+
+### Day 15:  December 30 , 2021 
+#####  I completed 100% of responsive web design principles , i didn’t log for the last 11 day because of my finals :/ sooo
+
+### Day 16:  December 31 , 2021 
+#####  I did 50% of css flexbox 
 
 ## EXTRA days I did .. each two line represnet one hour 
